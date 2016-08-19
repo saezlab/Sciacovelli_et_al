@@ -5,7 +5,7 @@ Sciacovelli et al., 2016, Nature analysis files:
 
 | file        | description           | 
 | ------------- |:-------------:| 
-| de_proteomics.r      | Differential protein abundance script, using limma bioconductor package | 
+| de_proteomics.r      | Differential protein abundance script, using limma bioconductor package| 
 | gsea_enrichment.py      | GSEA analysis of EMT + MSigDB signature in mouse and human samples | 
 | preprocess_proteomics.py      | Workflow followed to process the mass-spectrometry proteomics of mouse and human samples | 
 | tcga_rnaseq_correlations.py      | Correlation analysis of the TCGA KIRC tumour samples | 
